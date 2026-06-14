@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalafoff&label=Profile views&color=0e75b6&style=flat" alt="khalafoff" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalafoff" alt="khalafoff" /></a> </p>
-
 - 🔭 I'm currently working on **Building and maintaining software projects with a focus on clean architecture, performance, and practical usability.**
 
 - 🌱 I'm currently learning **C++**
