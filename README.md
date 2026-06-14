@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalafoff&label=Profile views&color=0e75b6&style=flat" alt="khalafoff" /> </p>
 
-- 🔭 I'm currently working on **Building and maintaining software projects with a focus on clean architecture, performance, and practical usability.**
+- 🔭 I'm currently working on **software projects focused on clean structure and practical functionality.**
 
-- 🌱 I'm currently learning **C++**
+- 🌱 I'm currently learning **improving C++ and core programming fundamentals.**
 
-- 💬 Ask me about **Software development, problem-solving approaches, code structure, and building scalable systems.**
+- 💬 Ask me about **programming basics, logic building, and development mindset.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
